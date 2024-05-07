@@ -3,6 +3,11 @@
 
 A simple framework to use LlamaIndex to build and deploy LLM agents that can be used to analyze and manipulate text data from documents.
 
+
+
+https://github.com/divitcr7/De-Citric/assets/67183559/5bd1aad7-ae80-4533-9db6-0641675927f8
+
+
 [![Built with Cookiecutter Django](https://img.shields.io/badge/built%20with-Cookiecutter%20Django-ff69b4.svg?logo=cookiecutter)](https://github.com/cookiecutter/cookiecutter-django/)
 [![Black code style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
 
